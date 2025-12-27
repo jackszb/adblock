@@ -15,7 +15,7 @@ DOWNLOAD_LINKS = [
     "https://raw.githubusercontent.com/jackszb/oisd/main/oisd-big.json",
     "https://raw.githubusercontent.com/jackszb/StevenBlack/main/rules/StevenBlack-hosts.json",
     "https://raw.githubusercontent.com/jackszb/CHN_antiAD/main/rules/CHN_antiAD.json",
-    "https://raw.githubusercontent.com/jackszb/CHN_AdRules/raw/main/rules/CHN_AdRules.json",
+    "https://raw.githubusercontent.com/jackszb/CHN_AdRules/main/rules/CHN_AdRules.json",
     "https://raw.githubusercontent.com/jackszb/AWAvenue/main/rules/AWAvenue-ads.json",
 ]
 
