@@ -26,7 +26,7 @@ jobs:
         curl -o adguard-sdnsfilter.txt https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
         curl -o ppfeufer-blocklist.txt https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/blocklist
         curl -o adblock.txt https://raw.githubusercontent.com/jackszb/mullvad/main/adguard/all/adblock.txt
-        curl -o mullvad_adblock.txt https://raw.githubusercontent.com/mullvad/main/adguard/categories/adblock/adblock.txt
+        curl -o mullvad_adblock.txt https://raw.githubusercontent.com/jackszb/mullvad/main/adguard/categories/adblock/adblock.txt
 
     - name: Convert adblock rules to binary format
       run: |
